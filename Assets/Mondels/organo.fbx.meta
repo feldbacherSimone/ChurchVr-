@@ -3,7 +3,47 @@ guid: 1e39852837ef42c43b68838a2aee0b38
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 4d98d17265c9fa841aeffa34083a665e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: c91cf2a6d82292247a5fc26cf5ca68fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 4783b77979a99454e89c54376136d6f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nota bianca
+    second: {fileID: 2100000, guid: 24d5dfc5ad0952849a8581bb3a4846d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nota nera
+    second: {fileID: 2100000, guid: 9b5583e666bd5d34e9216453d0ca7271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_
+    second: {fileID: 2100000, guid: 5110795bfd9248d4b88479345d9517d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scritte
+    second: {fileID: 2100000, guid: b527d5b55785df94d9ca6a8fbc8409a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tasti di legno
+    second: {fileID: 2100000, guid: 6fceaa0dbcd2f2f4486e9f44504fedf8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -42,6 +42,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Saturn's_ring
+    second: {fileID: 2100000, guid: 409b39b11d915aa408fb3d0905ad2517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Uranus
     second: {fileID: 2100000, guid: 01a39f35c4004dd4096f7465d76d78f0, type: 2}
   - first:
